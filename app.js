@@ -37,7 +37,7 @@ function verificarChute() {
        }
     
         else {
-        exibirTextoNaTela('h1','Pultz, voce errou ');
+        exibirTextoNaTela('h1','Pultz, voce errou :/ ');
         exibirTextoNaTela('p','O numero secreto é menor');
         limparTela();
         
